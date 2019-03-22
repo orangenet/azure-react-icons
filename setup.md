@@ -1,13 +1,45 @@
-### Generate new Icons
+# Setup Guide
 
-1. Place the SVG files in the `[root]/svgs` directory. 
-2. Rename the name to be PascalCase without numbers spaces or other special chracters. [a-zA-Z]. For a batch renaming use below commands:
+After cloning the repository execute:
 
-```bash
-for file in *; do mv $file ${file//OLD_VALUE/NEW_VALUE}; done
-// verify the command initially 
-for file in *; do echo mv $file ${file//OLD_VALUE/NEW_VALUE}; done
+```
+npm install
 ```
 
-3. Execute `npm run build`
-4. Update package version and publish with `npm run release`
+Install TypeScript:
+
+```
+npm install -g typescript
+```
+
+And we are ready to go!
+
+## Create a new component
+
+1. Place the SVG files in the `[root]/svgs` directory. 
+2. Rename files to PascalCase without numbers, spaces or any other special chracters. For many files check [batch renaming](#batch-renaming) below.
+3. Execute `npm run build`, further details in [Build process](#build-process)
+4. Verify the Icon in any of your projects and
+5. Open a PR!
+
+## Build process
+
+### 1. Initially the build process will execute:
+```
+node scripts --typescript svgs src
+```
+Which generates react components in TypeScript in the folder `src`, and finally: 
+
+### 2. Transpiling into JavaScript
+TypeScript files are transpiled by executing the command `tsc`, which is configured by the files [tsconfig.json](./tsconfig.json).
+
+# Batch Renaming
+Batch rename files by replacing values as shown in the command below.
+
+```bash
+# verify the command initially 
+for file in *; do echo mv $file ${file//OLD_VALUE/NEW_VALUE}; done
+
+# remove `echo` and execute it to apply changes
+for file in *; do mv $file ${file//OLD_VALUE/NEW_VALUE}; done
+```

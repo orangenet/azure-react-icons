@@ -1,7 +1,8 @@
 node_modules
 scripts
 svgs
-.babelrc
 .package-lock.json
 README.md
-webpack.config.js
+src
+tsconfig.json
+images

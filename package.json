@@ -1,20 +1,19 @@
 {
   "name": "azure-react-icons",
-  "version": "0.9.5",
+  "version": "0.9.7",
   "description": "React Components for Azure Cloud Icons",
-  "main": "build/index.js",
-  "types": "./lib/index.d.ts",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
   "scripts": {
-    "build:components": "node scripts svgs src",
-    "build": "npm run build:components && webpack",
+    "build:components": "node scripts --typescript svgs src",
+    "build": "npm run build:components && tsc",
     "release": "npm run build && npm publish"
   },
   "peerDependencies": {
     "react": "^16.8.4"
   },
   "dependencies": {
-    "react": "^16.8.4",
-    "webpack": "^4.12.0"
+    "react": "^16.8.4"
   },
   "devDependencies": {
     "babel-runtime": "^6.22.0",
@@ -28,13 +27,6 @@
     "lodash.foreach": "^4.5.0",
     "prop-types": "^15.7.2",
     "svgo": "^1.1.0",
-    "babel-cli": "^6.26.0",
-    "babel-core": "^6.26.3",
-    "babel-loader": "^7.1.4",
-    "babel-plugin-transform-object-rest-spread": "^6.26.0",
-    "babel-plugin-transform-react-jsx": "^6.24.1",
-    "babel-preset-env": "^1.7.0",
-    "webpack-cli": "^3.0.4",
     "@types/react": "^16.8.4",
     "react": "^16.8.4"
   },
