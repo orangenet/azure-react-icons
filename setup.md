@@ -6,7 +6,7 @@ After cloning the repository execute:
 npm install
 ```
 
-Install TypeScript:
+Install TypeScript
 
 ```
 npm install -g typescript
