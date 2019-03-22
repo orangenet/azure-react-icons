@@ -5,41 +5,40 @@
 
 [npm-url]: https://www.npmjs.com/package/azure-react-icons
 
-> Azure Icons in the form of React Components.
+Azure Icons based on SVG format in the form of React Components, to simplify adding the icons on your React applications.
+
+> Disclaimer these icons are based on the [Microsoft Cloud and Enterprise Symbol Set Version 2.6](https://www.microsoft.com/en-us/download/details.aspx?id=41937), for their usage in User Interfaces you need to request permission on CnESymbols@microsoft.com.
 
 ## Getting started
 
-Install the components using [npm](https://www.npmjs.com/):
+Install the components using [npm](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/en/)
 
 ```bash
 npm i --save azure-react-icons
-```
-
-Or with [Yarn](https://yarnpkg.com/en/):
-
-```bash
+# or 
 yarn add azure-react-icons
 ```
 
 ## Usage
 
-Import the component as shown below:
+Simply import the component into your file:
 
 ```
 import {APIManagement} from 'azure-react-icons';
 ```
-and use it as any other react component:
+And use it as any other react component:
 
 ```
 <APIManagement size={128}/>
 ```
 
-Result:
+Final result:
+
 <img src="/svgs/APIManagement.svg">
 
 
 ## Contributing
-You found an issue or there is an icon missing? :confused: Here is how you can help:
+You found an issue or there is an icon missing? :question: Here is how you can help:
 
 1. Follow up on the [Setup Guide](./setup.md). 
 2. Add your icon and make your change,
