@@ -34,7 +34,7 @@ And use it as any other react component:
 
 Final result:
 
-<img src="/svgs/APIManagement.svg">
+<img src="/svgs/APIManagement.svg" width="128">
 
 
 ## Contributing
