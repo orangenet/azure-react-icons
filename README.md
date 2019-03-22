@@ -3,6 +3,9 @@
 
 # Azure React Icons
 
+[![npm][npm-image]][npm-url]
+
+[npm-image]: https://img.shields.io/npm/v/react-icons.svg?style=flat-square
 [npm-url]: https://www.npmjs.com/package/azure-react-icons
 
 Azure Icons based on SVG format in the form of React Components, to simplify adding the icons on your React applications.
