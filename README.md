@@ -38,7 +38,7 @@ Final result:
 
 
 ## Contributing
-You found an issue or there is an icon missing? :question: Here is how you can help:
+You found an issue or there is an icon missing? Here is how you can help:
 
 1. Follow up on the [Setup Guide](./setup.md). 
 2. Add your icon and make your change,
