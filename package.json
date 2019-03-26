@@ -1,6 +1,6 @@
 {
   "name": "azure-react-icons",
-  "version": "0.9.9",
+  "version": "0.9.11",
   "description": "React Components for Azure Cloud Icons",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",

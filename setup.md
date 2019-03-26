@@ -43,3 +43,9 @@ for file in *; do echo mv $file ${file//OLD_VALUE/NEW_VALUE}; done
 # remove `echo` and execute it to apply changes
 for file in *; do mv $file ${file//OLD_VALUE/NEW_VALUE}; done
 ```
+
+# How to fix a SVG using [Inkscape](https://inkscape.org/)
+
+1. Open the SVG in inkscape.
+2. Make the changes.
+3. **(Important)** Crop to selection, hotkey CTRL + SHIFT + R and Save.
