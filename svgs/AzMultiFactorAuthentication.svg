@@ -1,79 +1,153 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 18.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 152 117.5" enable-background="new 0 0 152 117.5" xml:space="preserve">
-<g id="Layer_1">
-	<g id="Azure">
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   x="0px"
+   y="0px"
+   viewBox="0 0 28.259304 55.458424"
+   enable-background="new 0 0 152 117.5"
+   xml:space="preserve"
+   id="svg37"
+   sodipodi:docname="AzMultiFactorAuthentication.svg"
+   width="28.259304"
+   height="55.458424"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   id="metadata43"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs41" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="713"
+   inkscape:window-height="543"
+   id="namedview39"
+   showgrid="false"
+   inkscape:zoom="2.0085106"
+   inkscape:cx="14.125547"
+   inkscape:cy="27.677906"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg37" />
+<g
+   id="Layer_1"
+   transform="translate(-61.874453,-30.96948)">
+	<g
+   id="Azure">
 	</g>
-	<g id="BizTalk_Services" transform="translate(37.3575,-2500.2)">
+	<g
+   id="BizTalk_Services"
+   transform="translate(37.3575,-2500.2)">
 	</g>
-	<g id="Key_Vault">
+	<g
+   id="Key_Vault">
 	</g>
-	<g id="Mobile_Engagement">
+	<g
+   id="Mobile_Engagement">
 	</g>
 </g>
-<g id="paths">
-	<g id="Access_control">
+<g
+   id="paths"
+   transform="translate(-61.874453,-30.96948)">
+	<g
+   id="Access_control">
 	</g>
-	<g id="Azure_active_directory">
+	<g
+   id="Azure_active_directory">
 	</g>
-	<g id="API_Management">
+	<g
+   id="API_Management">
 	</g>
-	<g id="Azure_automation">
+	<g
+   id="Azure_automation">
 	</g>
-	<g id="Azure_SQL_database">
+	<g
+   id="Azure_SQL_database">
 	</g>
-	<g id="Azure_subscription">
+	<g
+   id="Azure_subscription">
 	</g>
-	<g id="Backup_service">
+	<g
+   id="Backup_service">
 	</g>
-	<g id="Bitbucket_code_source">
+	<g
+   id="Bitbucket_code_source">
 	</g>
-	<g id="Azure_cache">
+	<g
+   id="Azure_cache">
 	</g>
-	<g id="Content_delivery_network__x28_CDN_x29_">
+	<g
+   id="Content_delivery_network__x28_CDN_x29_">
 	</g>
-	<g id="Cloud_service">
+	<g
+   id="Cloud_service">
 	</g>
-	<g id="CodePlex">
+	<g
+   id="CodePlex">
 	</g>
-	<g id="Dropbox_code_source">
+	<g
+   id="Dropbox_code_source">
 	</g>
-	<g id="Express_route">
+	<g
+   id="Express_route">
 	</g>
-	<g id="Git_repository">
+	<g
+   id="Git_repository">
 	</g>
-	<g id="GitHub_code">
+	<g
+   id="GitHub_code">
 	</g>
-	<g id="HD_Insight">
+	<g
+   id="HD_Insight">
 	</g>
-	<g id="Health_monitoring">
+	<g
+   id="Health_monitoring">
 	</g>
-	<g id="Healthy">
+	<g
+   id="Healthy">
 	</g>
-	<g id="BizTalk_hybrid_connection">
+	<g
+   id="BizTalk_hybrid_connection">
 	</g>
-	<g id="Hybrid_connection_manager_for_BizTalk_hybrid_connection">
+	<g
+   id="Hybrid_connection_manager_for_BizTalk_hybrid_connection">
 	</g>
-	<g id="Hyper-V_recovery_manager">
+	<g
+   id="Hyper-V_recovery_manager">
 	</g>
-	<g id="Machine_learning">
+	<g
+   id="Machine_learning">
 	</g>
-	<g id="Media_services">
+	<g
+   id="Media_services">
 	</g>
-	<g id="Microsoft_account">
+	<g
+   id="Microsoft_account">
 	</g>
-	<g id="Mobile_services">
+	<g
+   id="Mobile_services">
 	</g>
-	<g id="Multi-factor_authentication">
-		<path fill="#0078D7" d="M90.1,81.2l-4-24.1c-0.2-1.2-1.3-1.8-2.5-1.6l-15.5,2.4l-2.7-15.9c-0.2-1.3,0.8-2.4,2.1-2.6l9-1.4
-			c1.4-0.2,2.6,0.5,2.8,1.9l1.9,11.4c0.1,0.7,0.8,1.1,1.4,1c0.7-0.1,1.1-0.7,1-1.4l-3-18c-0.2-1.3-1.4-2.1-2.8-1.9L64,33.3
-			c-1.3,0.2-2.3,1.3-2.1,2.6l3.7,22c0,0.2,0.1,0.3,0.1,0.5c-0.6,0.5-1,1.2-0.8,2l4,24.1c0.2,1.2,1.4,2.1,2.6,1.9l16.8-2.6
-			C89.6,83.6,90.3,82.3,90.1,81.2z M70.5,34.8l1.9-0.3c0.4-0.1,0.9,0.2,0.9,0.6c0.1,0.4-0.2,0.8-0.7,0.9l-1.9,0.3
-			c-0.4,0.1-0.9-0.2-0.9-0.6C69.7,35.2,70.1,34.9,70.5,34.8z M73.5,67.1c-0.3-1.7,0.9-3.4,2.7-3.6c1.8-0.3,3.5,0.9,3.8,2.6
-			c0.2,1.3-0.1,2.4-1.4,3.1l0.6,3.8l-3,0.5l-0.7-3.9C74.7,69.2,73.7,68.3,73.5,67.1z M82.2,83.1l-5.1,0.8c-0.4,0.1-0.9-0.2-0.9-0.6
-			c-0.1-0.4,0.2-0.8,0.7-0.9l5.1-0.8c0.4-0.1,0.9,0.2,0.9,0.6C83,82.7,82.6,83,82.2,83.1z"/>
+	<g
+   id="Multi-factor_authentication">
+		<path
+   d="m 90.1,81.2 -4,-24.1 C 85.9,55.9 84.8,55.3 83.6,55.5 L 68.1,57.9 65.4,42 c -0.2,-1.3 0.8,-2.4 2.1,-2.6 l 9,-1.4 c 1.4,-0.2 2.6,0.5 2.8,1.9 l 1.9,11.4 c 0.1,0.7 0.8,1.1 1.4,1 0.7,-0.1 1.1,-0.7 1,-1.4 l -3,-18 C 80.4,31.6 79.2,30.8 77.8,31 L 64,33.3 c -1.3,0.2 -2.3,1.3 -2.1,2.6 l 3.7,22 c 0,0.2 0.1,0.3 0.1,0.5 -0.6,0.5 -1,1.2 -0.8,2 l 4,24.1 c 0.2,1.2 1.4,2.1 2.6,1.9 l 16.8,-2.6 c 1.3,-0.2 2,-1.5 1.8,-2.6 z M 70.5,34.8 72.4,34.5 c 0.4,-0.1 0.9,0.2 0.9,0.6 0.1,0.4 -0.2,0.8 -0.7,0.9 l -1.9,0.3 c -0.4,0.1 -0.9,-0.2 -0.9,-0.6 -0.1,-0.5 0.3,-0.8 0.7,-0.9 z m 3,32.3 c -0.3,-1.7 0.9,-3.4 2.7,-3.6 1.8,-0.3 3.5,0.9 3.8,2.6 0.2,1.3 -0.1,2.4 -1.4,3.1 l 0.6,3.8 -3,0.5 -0.7,-3.9 c -0.8,-0.4 -1.8,-1.3 -2,-2.5 z m 8.7,16 -5.1,0.8 c -0.4,0.1 -0.9,-0.2 -0.9,-0.6 -0.1,-0.4 0.2,-0.8 0.7,-0.9 L 82,81.6 c 0.4,-0.1 0.9,0.2 0.9,0.6 0.1,0.5 -0.3,0.8 -0.7,0.9 z"
+   id="path33"
+   inkscape:connector-curvature="0"
+   style="fill:#0078d7" />
 	</g>
 </g>
 </svg>

@@ -38,7 +38,7 @@
    showgrid="false"
    inkscape:zoom="2.0085106"
    inkscape:cx="19"
-   inkscape:cy="16.35"
+   inkscape:cy="16.350001"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -218,7 +218,7 @@
 		<g
    id="g69">
 			<polygon
-   points="82.4,59.7 86.5,56.5 78.3,56.5 "
+   points="78.3,56.5 82.4,59.7 86.5,56.5 "
    id="polygon57"
    style="fill:#0078d7" />
 			<path
@@ -237,7 +237,7 @@
    inkscape:connector-curvature="0"
    style="fill:#0078d7" />
 			<polygon
-   points="69.8,59.7 74,56.5 65.7,56.5 "
+   points="65.7,56.5 69.8,59.7 74,56.5 "
    id="polygon65"
    style="fill:#0078d7" />
 			<path

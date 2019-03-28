@@ -1,49 +1,108 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 18.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 152 117.5" enable-background="new 0 0 152 117.5" xml:space="preserve">
-<g id="Layer_1">
-	<g id="Azure">
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   x="0px"
+   y="0px"
+   viewBox="0 0 50.799999 31.299999"
+   enable-background="new 0 0 152 117.5"
+   xml:space="preserve"
+   id="svg22"
+   sodipodi:docname="AzExpressRoute.svg"
+   width="50.799999"
+   height="31.299999"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   id="metadata28"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs26" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="713"
+   inkscape:window-height="543"
+   id="namedview24"
+   showgrid="false"
+   inkscape:zoom="2.0085106"
+   inkscape:cx="25.4"
+   inkscape:cy="15.65"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg22" />
+<g
+   id="Layer_1"
+   transform="translate(-50.6,-43.1)">
+	<g
+   id="Azure">
 	</g>
-	<g id="BizTalk_Services" transform="translate(37.3575,-2500.2)">
+	<g
+   id="BizTalk_Services"
+   transform="translate(37.3575,-2500.2)">
 	</g>
 </g>
-<g id="paths">
-	<g id="Access_control">
+<g
+   id="paths"
+   transform="translate(-50.6,-43.1)">
+	<g
+   id="Access_control">
 	</g>
-	<g id="Azure_active_directory">
+	<g
+   id="Azure_active_directory">
 	</g>
-	<g id="API_Management">
+	<g
+   id="API_Management">
 	</g>
-	<g id="Azure_automation">
+	<g
+   id="Azure_automation">
 	</g>
-	<g id="Azure_SQL_database">
+	<g
+   id="Azure_SQL_database">
 	</g>
-	<g id="Azure_subscription">
+	<g
+   id="Azure_subscription">
 	</g>
-	<g id="Backup_service">
+	<g
+   id="Backup_service">
 	</g>
-	<g id="Bitbucket_code_source">
+	<g
+   id="Bitbucket_code_source">
 	</g>
-	<g id="Azure_cache">
+	<g
+   id="Azure_cache">
 	</g>
-	<g id="Content_delivery_network__x28_CDN_x29_">
+	<g
+   id="Content_delivery_network__x28_CDN_x29_">
 	</g>
-	<g id="Cloud_service">
+	<g
+   id="Cloud_service">
 	</g>
-	<g id="CodePlex">
+	<g
+   id="CodePlex">
 	</g>
-	<g id="Dropbox_code_source">
+	<g
+   id="Dropbox_code_source">
 	</g>
-	<g id="Express_route">
-		<path fill="#0078D7" d="M95.8,62.9c-0.9,0-1.7,0.2-2.4,0.5L81.2,51.2c0.3-0.7,0.5-1.5,0.5-2.4c0-3.2-2.6-5.7-5.7-5.7
-			s-5.7,2.6-5.7,5.7c0,0.9,0.2,1.7,0.5,2.4L58.7,63.5c-0.7-0.3-1.5-0.5-2.4-0.5c-3.2,0-5.7,2.6-5.7,5.7s2.6,5.7,5.7,5.7
-			c2.5,0,4.5-1.6,5.3-3.7h28.8c0.8,2.1,2.9,3.7,5.3,3.7c3.2,0,5.7-2.6,5.7-5.7S98.9,62.9,95.8,62.9z M56.2,70.5
-			c-1,0-1.9-0.8-1.9-1.9c0-1,0.8-1.9,1.9-1.9c1,0,1.9,0.8,1.9,1.9C58.1,69.7,57.3,70.5,56.2,70.5z M76,47c1,0,1.9,0.8,1.9,1.9
-			c0,1-0.8,1.9-1.9,1.9c-1,0-1.9-0.8-1.9-1.9C74.2,47.8,75,47,76,47z M90.4,66.7H61.6c-0.1-0.2-0.1-0.3-0.2-0.4L73.6,54
-			c0.7,0.3,1.5,0.5,2.4,0.5c0.9,0,1.7-0.2,2.4-0.5l12.2,12.2C90.5,66.3,90.4,66.5,90.4,66.7z M95.8,70.4c-1,0-1.9-0.8-1.9-1.9
-			c0-1,0.8-1.9,1.9-1.9c1,0,1.9,0.8,1.9,1.9C97.6,69.6,96.8,70.4,95.8,70.4z"/>
+	<g
+   id="Express_route">
+		<path
+   d="m 95.8,62.9 c -0.9,0 -1.7,0.2 -2.4,0.5 L 81.2,51.2 c 0.3,-0.7 0.5,-1.5 0.5,-2.4 0,-3.2 -2.6,-5.7 -5.7,-5.7 -3.1,0 -5.7,2.6 -5.7,5.7 0,0.9 0.2,1.7 0.5,2.4 L 58.7,63.5 C 58,63.2 57.2,63 56.3,63 c -3.2,0 -5.7,2.6 -5.7,5.7 0,3.1 2.6,5.7 5.7,5.7 2.5,0 4.5,-1.6 5.3,-3.7 h 28.8 c 0.8,2.1 2.9,3.7 5.3,3.7 3.2,0 5.7,-2.6 5.7,-5.7 0,-3.1 -2.5,-5.8 -5.6,-5.8 z m -39.6,7.6 c -1,0 -1.9,-0.8 -1.9,-1.9 0,-1 0.8,-1.9 1.9,-1.9 1,0 1.9,0.8 1.9,1.9 0,1.1 -0.8,1.9 -1.9,1.9 z M 76,47 c 1,0 1.9,0.8 1.9,1.9 0,1 -0.8,1.9 -1.9,1.9 -1,0 -1.9,-0.8 -1.9,-1.9 C 74.2,47.8 75,47 76,47 Z M 90.4,66.7 H 61.6 C 61.5,66.5 61.5,66.4 61.4,66.3 L 73.6,54 c 0.7,0.3 1.5,0.5 2.4,0.5 0.9,0 1.7,-0.2 2.4,-0.5 l 12.2,12.2 c -0.1,0.1 -0.2,0.3 -0.2,0.5 z m 5.4,3.7 c -1,0 -1.9,-0.8 -1.9,-1.9 0,-1 0.8,-1.9 1.9,-1.9 1,0 1.9,0.8 1.9,1.9 -0.1,1.1 -0.9,1.9 -1.9,1.9 z"
+   id="path18"
+   inkscape:connector-curvature="0"
+   style="fill:#0078d7" />
 	</g>
 </g>
 </svg>

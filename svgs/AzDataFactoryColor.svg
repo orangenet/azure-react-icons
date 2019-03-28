@@ -1,14 +1,73 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="50px" height="50px" viewBox="0 0 50 50" enable-background="new 0 0 50 50" xml:space="preserve">
-<path fill="#59B4D9" d="M49.9,29.5L49.9,29.5V17.4L36.2,29.3h-0.3V17.4L22.2,29.3l0,0V4.4c0-2.1-4.7-4.2-10.9-4.2
-	C5.1,0.2,0,2.2,0,4.4V50h50L49.9,29.5z M11.3,6.4c-4.5,0-8.1-1.1-8.1-2.3s3.6-2.3,8.1-2.3s8.1,1,8.1,2.3C19.3,5.3,15.7,6.4,11.3,6.4
-	z M34.9,41.9h-5.5v-5.5h5.5V41.9z M25.2,41.9h-5.5v-5.5h5.5V41.9z M39.2,41.9v-5.5h5.5v5.5H39.2z"/>
-<rect x="0" y="4.1" fill="#3999C6" width="11.1" height="45.9"/>
-<path fill="#FFFFFF" d="M22.1,4.1c0,2.2-5,4-11.1,4S0,6.3,0,4.1c0-2.2,5-4,11.1-4S22.1,1.8,22.1,4.1"/>
-<path fill="#7FBA00" d="M19.9,3.8c0,1.5-3.9,2.6-8.8,2.6S2.3,5.3,2.3,3.8c0-1.5,3.9-2.6,8.8-2.6S19.9,2.4,19.9,3.8"/>
-<path fill="#B8D432" d="M18,5.4c1.2-0.4,1.8-1,1.8-1.6c0-1.5-3.9-2.6-8.8-2.6c-4.9,0-8.8,1.2-8.8,2.6C2.3,4.4,3,5,4.1,5.4
-	c1.6-0.6,4.1-1,7-1C13.9,4.4,16.4,4.8,18,5.4"/>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="50"
+   height="49.900002"
+   viewBox="0 0 50 49.900002"
+   enable-background="new 0 0 50 50"
+   xml:space="preserve"
+   sodipodi:docname="AzDataFactoryColor.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   id="metadata17"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs15" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="713"
+   inkscape:window-height="543"
+   id="namedview13"
+   showgrid="false"
+   inkscape:zoom="4.72"
+   inkscape:cx="25"
+   inkscape:cy="25.000001"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Layer_1" />
+<path
+   d="m 49.9,29.4 v 0 -12.1 L 36.2,29.2 H 35.9 V 17.3 L 22.2,29.2 v 0 V 4.3 C 22.2,2.2 17.5,0.1 11.3,0.1 5.1,0.1 0,2.1 0,4.3 V 49.9 H 50 Z M 11.3,6.3 C 6.8,6.3 3.2,5.2 3.2,4 c 0,-1.2 3.6,-2.3 8.1,-2.3 4.5,0 8.1,1 8.1,2.3 -0.1,1.2 -3.7,2.3 -8.1,2.3 z m 23.6,35.5 h -5.5 v -5.5 h 5.5 z m -9.7,0 h -5.5 v -5.5 h 5.5 z m 14,0 v -5.5 h 5.5 v 5.5 z"
+   id="path2"
+   inkscape:connector-curvature="0"
+   style="fill:#59b4d9" />
+<rect
+   x="0"
+   y="4"
+   width="11.1"
+   height="45.900002"
+   id="rect4"
+   style="fill:#3999c6" />
+<path
+   d="M 22.1,4 C 22.1,6.2 17.1,8 11,8 4.9,8 0,6.2 0,4 0,1.8 5,0 11.1,0 c 6.1,0 11,1.7 11,4"
+   id="path6"
+   inkscape:connector-curvature="0"
+   style="fill:#ffffff" />
+<path
+   d="m 19.9,3.7 c 0,1.5 -3.9,2.6 -8.8,2.6 -4.9,0 -8.8,-1.1 -8.8,-2.6 0,-1.5 3.9,-2.6 8.8,-2.6 4.9,0 8.8,1.2 8.8,2.6"
+   id="path8"
+   inkscape:connector-curvature="0"
+   style="fill:#7fba00" />
+<path
+   d="M 18,5.3 C 19.2,4.9 19.8,4.3 19.8,3.7 19.8,2.2 15.9,1.1 11,1.1 6.1,1.1 2.2,2.3 2.2,3.7 2.3,4.3 3,4.9 4.1,5.3 c 1.6,-0.6 4.1,-1 7,-1 2.8,0 5.3,0.4 6.9,1"
+   id="path10"
+   inkscape:connector-curvature="0"
+   style="fill:#b8d432" />
 </svg>

@@ -1,18 +1,111 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
-<path fill="#0072C6" d="M3.5,23C3.224,23,3,22.776,3,22.5S3.224,22,3.5,22H22V0H4C2.895,0,2,0.895,2,2v20.5
-	C2,23.328,2.672,24,3.5,24H22v-1H3.5z"/>
-<path opacity="0.5" fill="#000C82" d="M2,22.5C2,23.328,2.672,24,3.5,24H22v-1H3.5C3.224,23,3,22.776,3,22.5S3.224,22,3.5,22H22v-1
-	H3.5C2.672,21,2,21.672,2,22.5z"/>
-<path fill="#A0A1A2" d="M3.5,23C3.224,23,3,22.776,3,22.5S3.224,22,3.5,22H22c-0.276,0-0.5,0.224-0.5,0.5S21.724,23,22,23H3.5z"/>
-<rect x="1" y="3" fill="#A0A1A2" width="3" height="1"/>
-<rect x="1" y="7" fill="#A0A1A2" width="3" height="1"/>
-<rect x="1" y="11" fill="#A0A1A2" width="3" height="1"/>
-<rect x="1" y="15" fill="#A0A1A2" width="3" height="1"/>
-<rect x="1" y="19" fill="#A0A1A2" width="3" height="1"/>
-<polygon fill="#FFFFFF" points="9,8.641 9,12.86 12,14.352 12,10.141 "/>
-<polygon fill="#FFFFFF" points="15.383,7.836 12.5,6.398 9.617,7.836 12.5,9.273 "/>
-<polygon fill="#FFFFFF" points="13,14.352 16,12.86 16,8.641 13,10.141 "/>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="21"
+   height="24"
+   viewBox="0 0 21 24"
+   enable-background="new 0 0 24 24"
+   xml:space="preserve"
+   sodipodi:docname="ManagedApplicationscolor.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   id="metadata29"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs27" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="713"
+   inkscape:window-height="543"
+   id="namedview25"
+   showgrid="false"
+   inkscape:zoom="9.8333333"
+   inkscape:cx="11"
+   inkscape:cy="12"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Layer_1" />
+<path
+   d="M 2.5,23 C 2.224,23 2,22.776 2,22.5 2,22.224 2.224,22 2.5,22 H 21 V 0 H 3 C 1.895,0 1,0.895 1,2 V 22.5 C 1,23.328 1.672,24 2.5,24 H 21 v -1 z"
+   id="path2"
+   inkscape:connector-curvature="0"
+   style="fill:#0072c6" />
+<path
+   d="M 1,22.5 C 1,23.328 1.672,24 2.5,24 H 21 V 23 H 2.5 C 2.224,23 2,22.776 2,22.5 2,22.224 2.224,22 2.5,22 H 21 V 21 H 2.5 C 1.672,21 1,21.672 1,22.5 Z"
+   id="path4"
+   inkscape:connector-curvature="0"
+   style="opacity:0.5;fill:#000c82" />
+<path
+   d="M 2.5,23 C 2.224,23 2,22.776 2,22.5 2,22.224 2.224,22 2.5,22 H 21 c -0.276,0 -0.5,0.224 -0.5,0.5 0,0.276 0.224,0.5 0.5,0.5 z"
+   id="path6"
+   inkscape:connector-curvature="0"
+   style="fill:#a0a1a2" />
+<rect
+   x="0"
+   y="3"
+   width="3"
+   height="1"
+   id="rect8"
+   style="fill:#a0a1a2" />
+<rect
+   x="0"
+   y="7"
+   width="3"
+   height="1"
+   id="rect10"
+   style="fill:#a0a1a2" />
+<rect
+   x="0"
+   y="11"
+   width="3"
+   height="1"
+   id="rect12"
+   style="fill:#a0a1a2" />
+<rect
+   x="0"
+   y="15"
+   width="3"
+   height="1"
+   id="rect14"
+   style="fill:#a0a1a2" />
+<rect
+   x="0"
+   y="19"
+   width="3"
+   height="1"
+   id="rect16"
+   style="fill:#a0a1a2" />
+<polygon
+   points="12,14.352 12,10.141 9,8.641 9,12.86 "
+   id="polygon18"
+   style="fill:#ffffff"
+   transform="translate(-1)" />
+<polygon
+   points="9.617,7.836 12.5,9.273 15.383,7.836 12.5,6.398 "
+   id="polygon20"
+   style="fill:#ffffff"
+   transform="translate(-1)" />
+<polygon
+   points="16,8.641 13,10.141 13,14.352 16,12.86 "
+   id="polygon22"
+   style="fill:#ffffff"
+   transform="translate(-1)" />
 </svg>

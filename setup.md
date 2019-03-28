@@ -49,3 +49,12 @@ for file in *; do mv $file ${file//OLD_VALUE/NEW_VALUE}; done
 1. Open the SVG in inkscape.
 2. Make the changes.
 3. **(Important)** Crop to selection, hotkey CTRL + SHIFT + R and Save.
+
+# Removing whitespace 
+Using the open source Inkscape you can automate removal of canvas which doesn't contain the icon. (Or you can manually do that as described above.)
+
+```
+foreach ($file in $files){
+    inkscape --verb=FitCanvasToDrawing --verb=FileSave --verb=FileQuit ".\$file"
+}
+```

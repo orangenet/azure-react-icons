@@ -1,43 +1,107 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 18.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 152 117.5" enable-background="new 0 0 152 117.5" xml:space="preserve">
-<g id="Layer_1">
-	<g id="Azure">
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   x="0px"
+   y="0px"
+   viewBox="0 0 52.033726 38.34"
+   enable-background="new 0 0 152 117.5"
+   xml:space="preserve"
+   id="svg25"
+   sodipodi:docname="Azsubscription.svg"
+   width="52.033726"
+   height="38.34"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   id="metadata31"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs29" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="713"
+   inkscape:window-height="543"
+   id="namedview27"
+   showgrid="false"
+   inkscape:zoom="2.0085106"
+   inkscape:cx="26"
+   inkscape:cy="16.95"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg25" />
+<g
+   id="Layer_1"
+   transform="translate(-50,-37.36)">
+	<g
+   id="Azure">
 	</g>
 </g>
-<g id="paths">
-	<g id="Access_control">
+<g
+   id="paths"
+   transform="translate(-50,-37.36)">
+	<g
+   id="Access_control">
 	</g>
-	<g id="Azure_active_directory">
+	<g
+   id="Azure_active_directory">
 	</g>
-	<g id="API_Management">
+	<g
+   id="API_Management">
 	</g>
-	<g id="Azure_automation">
+	<g
+   id="Azure_automation">
 	</g>
-	<g id="Azure_SQL_database">
+	<g
+   id="Azure_SQL_database">
 	</g>
-	<g id="Azure_subscription">
-		<g>
-			<path fill="#0078D7" d="M75.6,61.5L75,63.9c-0.1,0.4,0.2,0.7,0.5,0.6l2.4-0.6c0.4-0.1,0.5-0.4,0.2-0.7l-1.8-1.8
-				C76,61.1,75.6,61.1,75.6,61.5z"/>
-			<path fill="#0078D7" d="M77.4,58.5l3.5,3.5c0.3,0.3,0.8,0.3,1.1,0l16.2-16.3c0.3-0.3,0.3-0.8,0-1.1l-3.5-3.5
-				c-0.3-0.3-0.8-0.3-1.1,0L77.4,57.4C77.2,57.7,77.2,58.2,77.4,58.5z"/>
-			<path fill="#0078D7" d="M101,38.4c-2-2-4-0.5-4-0.5c-0.3,0.2-0.8,0.7-1.1,1c-0.3,0.3-0.3,0.7,0,1.1l3.5,3.5c0.3,0.3,0.8,0.3,1,0
-				c0.3-0.3,0.7-0.8,1-1.1C101.5,42.4,103,40.4,101,38.4z"/>
-			<path fill="#0078D7" d="M65.7,68.4L65.7,68.4c-0.1,0.2-0.1,0.4-0.2,0.6l-0.8,2.4h1.8L65.8,69C65.8,68.8,65.7,68.6,65.7,68.4z"/>
-			<path fill="#0078D7" d="M86.9,70.1c-0.3,0-0.5,0.1-0.7,0.3c-0.2,0.2-0.3,0.4-0.3,0.7h1.8C87.7,70.4,87.4,70.1,86.9,70.1z"/>
-			<path fill="#0078D7" d="M94.1,64.3c-0.2,0-0.5,0-0.7,0c0.4-1.3,0.5-2.7,0.5-4.1c0-2.2-0.5-4.3-1.3-6.2l-9.3,9.3
-				c-0.5,0.5-4.1,2.1-5,2.4l0,0l0,0L76,66.4c-0.2,0-0.4,0.1-0.6,0.1c-0.7,0-1.4-0.3-1.9-0.9C73,65,72.8,64.2,73,63.4l0,0l0,0
-				l0.6-2.3c0.2-1,1.9-4.6,2.4-5.1l9.5-9.5c-2.1-1.1-4.5-1.7-7-1.7c-6.8,0-12.6,4.4-14.6,10.5c-1.1-0.4-2.2-0.6-3.4-0.6
-				c-5.8,0-10.5,4.7-10.5,10.5c0,5.8,4.7,10.5,10.5,10.5c0,0,0,0,0,0l0,0h34.1l0,0c3-0.2,5.3-2.7,5.3-5.8
-				C99.9,66.9,97.3,64.3,94.1,64.3z M67.4,74.2L67,72.6h-2.5L64,74.2h-1.7l2.5-7h1.9l2.5,7H67.4z M73.8,74.2h-4.5v-0.6l2.5-3.2h-2.3
-				v-1.1h4.2v0.8L71.5,73h2.4V74.2z M79.4,74.2h-1.5v-0.8h0c-0.4,0.6-0.9,0.9-1.5,0.9c-1.2,0-1.7-0.7-1.7-2.1v-3h1.5V72
-				c0,0.7,0.3,1.1,0.8,1.1c0.3,0,0.5-0.1,0.7-0.3s0.3-0.5,0.3-0.8v-2.9h1.5V74.2z M84,70.5c-0.2-0.1-0.4-0.2-0.6-0.2
-				c-0.3,0-0.6,0.1-0.8,0.4c-0.2,0.2-0.3,0.6-0.3,1v2.4h-1.5v-5h1.5v0.9h0c0.2-0.7,0.7-1,1.3-1c0.2,0,0.3,0,0.4,0.1V70.5z
-				 M89.2,72.1h-3.3c0.1,0.7,0.5,1.1,1.4,1.1c0.5,0,1-0.1,1.5-0.4v1.1c-0.5,0.2-1.1,0.4-1.8,0.4c-0.8,0-1.4-0.2-1.9-0.7
-				c-0.4-0.4-0.7-1.1-0.7-1.9c0-0.9,0.3-1.6,0.8-2.1c0.5-0.4,1-0.6,1.7-0.6c0.8,0,1.3,0.2,1.7,0.7c0.4,0.4,0.5,1,0.5,1.7V72.1z"/>
+	<g
+   id="Azure_subscription">
+		<g
+   id="g21">
+			<path
+   d="M 75.6,61.5 75,63.9 c -0.1,0.4 0.2,0.7 0.5,0.6 l 2.4,-0.6 c 0.4,-0.1 0.5,-0.4 0.2,-0.7 L 76.3,61.4 C 76,61.1 75.6,61.1 75.6,61.5 Z"
+   id="path9"
+   inkscape:connector-curvature="0"
+   style="fill:#0078d7" />
+			<path
+   d="m 77.4,58.5 3.5,3.5 c 0.3,0.3 0.8,0.3 1.1,0 L 98.2,45.7 c 0.3,-0.3 0.3,-0.8 0,-1.1 l -3.5,-3.5 c -0.3,-0.3 -0.8,-0.3 -1.1,0 L 77.4,57.4 c -0.2,0.3 -0.2,0.8 0,1.1 z"
+   id="path11"
+   inkscape:connector-curvature="0"
+   style="fill:#0078d7" />
+			<path
+   d="m 101,38.4 c -2,-2 -4,-0.5 -4,-0.5 -0.3,0.2 -0.8,0.7 -1.1,1 -0.3,0.3 -0.3,0.7 0,1.1 l 3.5,3.5 c 0.3,0.3 0.8,0.3 1,0 0.3,-0.3 0.7,-0.8 1,-1.1 0.1,0 1.6,-2 -0.4,-4 z"
+   id="path13"
+   inkscape:connector-curvature="0"
+   style="fill:#0078d7" />
+			<path
+   d="m 65.7,68.4 v 0 c -0.1,0.2 -0.1,0.4 -0.2,0.6 l -0.8,2.4 h 1.8 L 65.8,69 c 0,-0.2 -0.1,-0.4 -0.1,-0.6 z"
+   id="path15"
+   inkscape:connector-curvature="0"
+   style="fill:#0078d7" />
+			<path
+   d="m 86.9,70.1 c -0.3,0 -0.5,0.1 -0.7,0.3 -0.2,0.2 -0.3,0.4 -0.3,0.7 h 1.8 c 0,-0.7 -0.3,-1 -0.8,-1 z"
+   id="path17"
+   inkscape:connector-curvature="0"
+   style="fill:#0078d7" />
+			<path
+   d="m 94.1,64.3 c -0.2,0 -0.5,0 -0.7,0 0.4,-1.3 0.5,-2.7 0.5,-4.1 0,-2.2 -0.5,-4.3 -1.3,-6.2 l -9.3,9.3 c -0.5,0.5 -4.1,2.1 -5,2.4 v 0 0 L 76,66.4 c -0.2,0 -0.4,0.1 -0.6,0.1 -0.7,0 -1.4,-0.3 -1.9,-0.9 C 73,65 72.8,64.2 73,63.4 v 0 0 l 0.6,-2.3 c 0.2,-1 1.9,-4.6 2.4,-5.1 l 9.5,-9.5 c -2.1,-1.1 -4.5,-1.7 -7,-1.7 -6.8,0 -12.6,4.4 -14.6,10.5 -1.1,-0.4 -2.2,-0.6 -3.4,-0.6 -5.8,0 -10.5,4.7 -10.5,10.5 0,5.8 4.7,10.5 10.5,10.5 0,0 0,0 0,0 v 0 h 34.1 v 0 c 3,-0.2 5.3,-2.7 5.3,-5.8 0,-3 -2.6,-5.6 -5.8,-5.6 z M 67.4,74.2 67,72.6 H 64.5 L 64,74.2 h -1.7 l 2.5,-7 h 1.9 l 2.5,7 z m 6.4,0 h -4.5 v -0.6 l 2.5,-3.2 h -2.3 v -1.1 h 4.2 v 0.8 L 71.5,73 h 2.4 v 1.2 z m 5.6,0 h -1.5 v -0.8 0 c -0.4,0.6 -0.9,0.9 -1.5,0.9 -1.2,0 -1.7,-0.7 -1.7,-2.1 v -3 h 1.5 V 72 c 0,0.7 0.3,1.1 0.8,1.1 0.3,0 0.5,-0.1 0.7,-0.3 C 77.9,72.6 78,72.3 78,72 v -2.9 h 1.5 v 5.1 z M 84,70.5 c -0.2,-0.1 -0.4,-0.2 -0.6,-0.2 -0.3,0 -0.6,0.1 -0.8,0.4 -0.2,0.2 -0.3,0.6 -0.3,1 v 2.4 h -1.5 v -5 h 1.5 v 0.9 0 c 0.2,-0.7 0.7,-1 1.3,-1 0.2,0 0.3,0 0.4,0.1 z m 5.2,1.6 h -3.3 c 0.1,0.7 0.5,1.1 1.4,1.1 0.5,0 1,-0.1 1.5,-0.4 v 1.1 c -0.5,0.2 -1.1,0.4 -1.8,0.4 -0.8,0 -1.4,-0.2 -1.9,-0.7 -0.4,-0.4 -0.7,-1.1 -0.7,-1.9 0,-0.9 0.3,-1.6 0.8,-2.1 0.5,-0.4 1,-0.6 1.7,-0.6 0.8,0 1.3,0.2 1.7,0.7 0.4,0.4 0.5,1 0.5,1.7 v 0.7 z"
+   id="path19"
+   inkscape:connector-curvature="0"
+   style="fill:#0078d7" />
 		</g>
 	</g>
 </g>
