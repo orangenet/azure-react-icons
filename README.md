@@ -12,7 +12,7 @@
 
 Azure Icons based on SVG format in the form of React Components, to simplify adding the icons on your React applications.
 
-> Disclaimer these icons are based on the [Microsoft Cloud and Enterprise Symbol Set Version 2.6](https://www.microsoft.com/en-us/download/details.aspx?id=41937), for their usage in User Interfaces you need to request permission on CnESymbols@microsoft.com.
+> Disclaimer these icons are from [Azure Architecture Icons](https://docs.microsoft.com/en-us/azure/architecture/icons/), for their usage in User Interfaces you need to request permission on CnESymbols@microsoft.com.
 
 ## Getting started
 
