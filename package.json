@@ -26,7 +26,7 @@
     "lodash.camelcase": "^4.3.0",
     "lodash.foreach": "^4.5.0",
     "prop-types": "^15.7.2",
-    "svgo": "^1.1.0",
+    "svgo": "^4.0.0",
     "@types/react": "^16.8.4",
     "react": "^16.8.4"
   },
